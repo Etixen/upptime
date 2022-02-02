@@ -31,14 +31,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/Etixen/upptime/3ede7e2c3f0a5dda02fe61a16aefab8242e95dd8/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Etixen/upptime/cbd178ad88658e73370219a27c9125ab09b0c512/icon.svg
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Etixen Web Service Status
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
+  #navbar:
+   # - title: Status
+   #   href: /
     
 
 # Upptime also supports notifications, assigning issues, and more
