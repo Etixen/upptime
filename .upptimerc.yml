@@ -6,39 +6,38 @@ sites:
   - name: Etixen
     url: https://www.etixen.com
   - name: Axiaventures
-    url: http://www.axiaventures.com/
+    url: http://www.axiaventures.com
   - name: Diagnostico Zarate
     url: http://www.diagnosticozarate.com.ar 
   - name: Dillon Terzaghi
-    url: https://www.dillonterzaghi.com.ar/
+    url: https://www.dillonterzaghi.com.ar
   - name: Extrutex
-    url: http://www.extrutex.com.ar/
+    url: http://www.extrutex.com.ar
   - name: Fundacion Norte y Sur
     url: http://www.fundacionnorteysur.org.ar
   - name: Ibepisa 
-    url: http://ibepisa.com.ar/
+    url: http://ibepisa.com.ar
   - name: Ito-Zarate
-    url: http://www.ito-zarate.com.ar/ 
+    url: http://www.ito-zarate.com.ar
   - name: Lisandro Bril
-    url: https://www.lisandrobril.com/ 
-    url: https://blog.lisandrobril.com/ 
+    url: https://www.lisandrobril.com
+    url: https://blog.lisandrobril.com
   - name: Watervan 
-    url: http://watervan.com.ar/ 
+    url: http://watervan.com.ar
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Etixen Web Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
