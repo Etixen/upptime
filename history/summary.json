@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.etixen.com",
     "slug": "etixen",
     "status": "down",
-    "uptime": "92.95%",
-    "uptimeDay": "79.27%",
-    "uptimeWeek": "92.95%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "92.95%",
+    "uptime": "90.98%",
+    "uptimeDay": "72.93%",
+    "uptimeWeek": "90.98%",
+    "uptimeMonth": "90.98%",
+    "uptimeYear": "90.98%",
     "time": 1008,
     "timeDay": 1109,
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2022-02-05": 298
+      "2022-02-05": 390
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "http://ibepisa.com.ar",
     "icon": "https://favicons.githubusercontent.com/ibepisa.com.ar",
     "slug": "ibepisa",
-    "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
-    "time": 219,
-    "timeDay": 261,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "96.98%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
+    "time": 211,
+    "timeDay": 215,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-02-05": 39
+      "2022-02-05": 130
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.lisandrobril.com",
     "slug": "blog-de-lisandro-bril",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
+    "uptime": "96.97%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "96.97%",
     "time": 209,
     "timeDay": 241,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-02-05": 39
+      "2022-02-05": 130
     }
   },
   {
