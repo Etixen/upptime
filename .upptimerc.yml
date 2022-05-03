@@ -25,7 +25,12 @@ sites:
     url: https://blog.lisandrobril.com
   - name: Watervan 
     url: http://watervan.com.ar
-      
+  - name: La Campaña Agencia  
+    url: https://agencialc.com.ar
+  - name: Newton 
+    url: https://newton.com.ar
+  
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
