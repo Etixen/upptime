@@ -1,7 +1,7 @@
 url: http://www.fundacionnorteysur.org.ar
-status: up
-code: 200
-responseTime: 235
-lastUpdated: 2022-05-17T23:11:47.378Z
+status: down
+code: 500
+responseTime: 1254
+lastUpdated: 2022-05-18T07:45:50.156Z
 startTime: Tue Mar 22 2022 14:24:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
