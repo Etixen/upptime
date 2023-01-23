@@ -108,9 +108,9 @@
     "url": "http://www.diagnosticozarate.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.diagnosticozarate.com.ar.ico",
     "slug": "diagnostico-zarate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.20%",
@@ -120,6 +120,7 @@
     "timeMonth": 464,
     "timeYear": 462,
     "dailyMinutesDown": {
+      "2023-01-23": 0,
       "2023-01-21": 16,
       "2023-01-20": 15,
       "2023-01-19": 15,
@@ -217,8 +218,7 @@
       "2022-06-12": 19,
       "2022-06-10": 18,
       "2022-06-09": 16,
-      "2022-06-08": 16,
-      "2022-06-05": 17
+      "2022-06-08": 16
     }
   },
   {
@@ -392,9 +392,9 @@
     "url": "https://www.lisandrobril.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lisandrobril.com.ico",
     "slug": "lisandro-bril",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.42%",
@@ -404,6 +404,7 @@
     "timeMonth": 634,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2023-01-23": 0,
       "2023-01-21": 16,
       "2023-01-20": 15,
       "2023-01-19": 15,
@@ -501,8 +502,7 @@
       "2022-06-12": 19,
       "2022-06-10": 18,
       "2022-06-09": 16,
-      "2022-06-08": 16,
-      "2022-06-05": 17
+      "2022-06-08": 16
     }
   },
   {
@@ -535,11 +535,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watervan.com.ar.ico",
     "slug": "watervan",
     "status": "up",
-    "uptime": "69.82%",
+    "uptime": "69.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.82%",
+    "uptimeYear": "69.83%",
     "time": 789,
     "timeDay": 655,
     "timeWeek": 704,
@@ -719,18 +719,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/newton.com.ar.ico",
     "slug": "newton",
     "status": "down",
-    "uptime": "33.58%",
+    "uptime": "33.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.58%",
+    "uptimeYear": "33.57%",
     "time": 2448,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2448,
     "dailyMinutesDown": {
-      "2023-01-23": 97,
+      "2023-01-23": 304,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
