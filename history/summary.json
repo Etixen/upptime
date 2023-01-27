@@ -108,9 +108,9 @@
     "url": "http://www.diagnosticozarate.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.diagnosticozarate.com.ar.ico",
     "slug": "diagnostico-zarate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.21%",
@@ -120,6 +120,7 @@
     "timeMonth": 469,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2023-01-27": 0,
       "2023-01-26": 18,
       "2023-01-25": 18,
       "2023-01-23": 18,
@@ -217,8 +218,7 @@
       "2022-06-18": 15,
       "2022-06-17": 23,
       "2022-06-16": 23,
-      "2022-06-12": 19,
-      "2022-06-10": 18
+      "2022-06-12": 19
     }
   },
   {
@@ -392,11 +392,11 @@
     "url": "https://www.lisandrobril.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lisandrobril.com.ico",
     "slug": "lisandro-bril",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.34%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.43%",
     "time": 567,
     "timeDay": 676,
@@ -404,6 +404,7 @@
     "timeMonth": 611,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2023-01-27": 0,
       "2023-01-26": 18,
       "2023-01-25": 19,
       "2023-01-23": 18,
@@ -501,8 +502,7 @@
       "2022-06-18": 15,
       "2022-06-17": 23,
       "2022-06-16": 23,
-      "2022-06-12": 19,
-      "2022-06-10": 18
+      "2022-06-12": 19
     }
   },
   {
@@ -535,11 +535,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watervan.com.ar.ico",
     "slug": "watervan",
     "status": "up",
-    "uptime": "70.20%",
+    "uptime": "70.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.20%",
+    "uptimeYear": "70.22%",
     "time": 788,
     "timeDay": 1054,
     "timeWeek": 721,
@@ -719,18 +719,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/newton.com.ar.ico",
     "slug": "newton",
     "status": "down",
-    "uptime": "33.08%",
+    "uptime": "33.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.08%",
+    "uptimeYear": "33.07%",
     "time": 2448,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2448,
     "dailyMinutesDown": {
-      "2023-01-27": 100,
+      "2023-01-27": 307,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
