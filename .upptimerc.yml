@@ -7,8 +7,8 @@ sites:
     url: https://www.etixen.com
   - name: Axiaventures
     url: http://www.axiaventures.com
-  - name: Diagnostico Zarate
-    url: http://www.diagnosticozarate.com.ar 
+  #- name: Diagnostico Zarate
+  #  url: http://www.diagnosticozarate.com.ar 
   - name: Dillon Terzaghi
     url: https://www.dillonterzaghi.com.ar
   - name: Extrutex
