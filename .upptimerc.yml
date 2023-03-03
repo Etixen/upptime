@@ -28,7 +28,9 @@ sites:
   - name: La Campaña Agencia  
     url: https://agencialc.com.ar
   - name: Newton 
-    url: https://newton.com.ar
+    url: https://www.newton.com.ar
+  - name: Alimentarg 
+    url: https://alimentarg.com.ar
   
   
 status-website:
