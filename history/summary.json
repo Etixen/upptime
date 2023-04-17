@@ -184,9 +184,9 @@
     "url": "https://www.lisandrobril.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lisandrobril.com.ico",
     "slug": "lisandro-bril",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.56%",
@@ -196,6 +196,7 @@
     "timeMonth": 624,
     "timeYear": 635,
     "dailyMinutesDown": {
+      "2023-04-17": 1,
       "2023-04-14": 15,
       "2023-04-11": 15,
       "2023-03-22": 16,
@@ -294,8 +295,7 @@
       "2022-09-10": 48,
       "2022-09-03": 32,
       "2022-08-26": 58,
-      "2022-08-25": 53,
-      "2022-08-21": 23
+      "2022-08-25": 53
     }
   },
   {
@@ -327,7 +327,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/watervan.com.ar.ico",
     "slug": "watervan",
     "status": "up",
-    "uptime": "69.79%",
+    "uptime": "69.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -493,11 +493,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "38.28%",
+    "uptime": "38.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.28%",
+    "uptimeYear": "38.31%",
     "time": 1916,
     "timeDay": 1440,
     "timeWeek": 509,
