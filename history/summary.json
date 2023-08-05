@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1825,
-    "timeDay": 1100,
-    "timeWeek": 2064,
-    "timeMonth": 2318,
-    "timeYear": 1829,
+    "time": 1826,
+    "timeDay": 1689,
+    "timeWeek": 1840,
+    "timeMonth": 2322,
+    "timeYear": 1828,
     "dailyMinutesDown": {
       "2023-02-02": 402,
       "2023-01-19": 29,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 908,
-    "timeDay": 991,
-    "timeWeek": 1059,
+    "timeDay": 815,
+    "timeWeek": 1110,
     "timeMonth": 995,
     "timeYear": 889,
     "dailyMinutesDown": {
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 361,
-    "timeDay": 248,
-    "timeWeek": 315,
-    "timeMonth": 476,
+    "timeDay": 222,
+    "timeWeek": 318,
+    "timeMonth": 475,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2023-02-02": 380
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 482,
-    "timeDay": 521,
-    "timeWeek": 508,
-    "timeMonth": 493,
+    "time": 483,
+    "timeDay": 573,
+    "timeWeek": 529,
+    "timeMonth": 501,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2023-02-02": 344
@@ -88,15 +88,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fundacionnorteysur.org.ar.ico",
     "slug": "fundacion-norte-y-sur",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 570,
-    "timeDay": 627,
-    "timeWeek": 655,
-    "timeMonth": 711,
+    "timeDay": 589,
+    "timeWeek": 667,
+    "timeMonth": 712,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2023-02-02": 344
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 279,
-    "timeDay": 179,
-    "timeWeek": 257,
-    "timeMonth": 296,
-    "timeYear": 284,
+    "timeDay": 83,
+    "timeWeek": 229,
+    "timeMonth": 278,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2023-02-02": 380
     }
@@ -134,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 546,
-    "timeDay": 243,
-    "timeWeek": 529,
-    "timeMonth": 666,
-    "timeYear": 587,
+    "timeDay": 419,
+    "timeWeek": 515,
+    "timeMonth": 664,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2023-02-02": 380
     }
@@ -154,10 +154,10 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.68%",
     "time": 652,
-    "timeDay": 555,
-    "timeWeek": 625,
+    "timeDay": 556,
+    "timeWeek": 615,
     "timeMonth": 639,
-    "timeYear": 643,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2023-08-04": 15,
       "2023-08-02": 16,
@@ -273,10 +273,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 427,
-    "timeDay": 279,
-    "timeWeek": 335,
-    "timeMonth": 413,
-    "timeYear": 420,
+    "timeDay": 265,
+    "timeWeek": 320,
+    "timeMonth": 412,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2023-02-02": 424
     }
@@ -287,16 +287,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/watervan.com.ar.ico",
     "slug": "watervan",
     "status": "up",
-    "uptime": "76.39%",
+    "uptime": "76.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.98%",
-    "time": 742,
-    "timeDay": 1716,
-    "timeWeek": 1956,
-    "timeMonth": 2075,
-    "timeYear": 813,
+    "uptimeYear": "85.21%",
+    "time": 748,
+    "timeDay": 3801,
+    "timeWeek": 2267,
+    "timeMonth": 2133,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2023-02-28": 1043,
       "2023-02-27": 1440,
@@ -352,8 +352,7 @@
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
-      "2022-08-06": 1440,
-      "2022-08-05": 1440
+      "2022-08-06": 1440
     }
   },
   {
@@ -368,10 +367,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 603,
-    "timeDay": 491,
-    "timeWeek": 582,
-    "timeMonth": 585,
-    "timeYear": 603,
+    "timeDay": 404,
+    "timeWeek": 560,
+    "timeMonth": 583,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2023-05-18": 921,
       "2023-05-17": 158,
@@ -384,16 +383,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "53.00%",
+    "uptime": "53.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.12%",
-    "time": 1449,
-    "timeDay": 1361,
-    "timeWeek": 1079,
-    "timeMonth": 951,
-    "timeYear": 853,
+    "uptimeYear": "42.34%",
+    "time": 1452,
+    "timeDay": 2269,
+    "timeWeek": 1216,
+    "timeMonth": 977,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2023-03-03": 719,
       "2023-03-02": 1440,
@@ -604,8 +603,7 @@
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
-      "2022-08-06": 1440,
-      "2022-08-05": 1440
+      "2022-08-06": 1440
     }
   },
   {
@@ -619,11 +617,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 789,
-    "timeWeek": 1074,
-    "timeMonth": 1042,
-    "timeYear": 960,
+    "time": 961,
+    "timeDay": 1186,
+    "timeWeek": 1103,
+    "timeMonth": 1050,
+    "timeYear": 961,
     "dailyMinutesDown": {}
   }
 ]
