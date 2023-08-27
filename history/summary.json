@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1827,
-    "timeDay": 2823,
-    "timeWeek": 1956,
-    "timeMonth": 1971,
-    "timeYear": 1843,
+    "time": 1828,
+    "timeDay": 1305,
+    "timeWeek": 1942,
+    "timeMonth": 1936,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2023-02-02": 402,
       "2023-01-19": 29,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 914,
-    "timeDay": 1162,
-    "timeWeek": 1000,
-    "timeMonth": 981,
-    "timeYear": 899,
+    "timeDay": 1008,
+    "timeWeek": 902,
+    "timeMonth": 982,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2023-02-02": 424
     }
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 367,
-    "timeDay": 291,
-    "timeWeek": 356,
-    "timeMonth": 378,
+    "timeDay": 487,
+    "timeWeek": 382,
+    "timeMonth": 384,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2023-02-02": 380
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 494,
-    "timeDay": 656,
-    "timeWeek": 540,
-    "timeMonth": 566,
-    "timeYear": 527,
+    "time": 495,
+    "timeDay": 810,
+    "timeWeek": 575,
+    "timeMonth": 573,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2023-02-02": 344
     }
@@ -88,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fundacionnorteysur.org.ar.ico",
     "slug": "fundacion-norte-y-sur",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 579,
-    "timeDay": 1457,
-    "timeWeek": 866,
-    "timeMonth": 621,
-    "timeYear": 600,
+    "timeDay": 667,
+    "timeWeek": 882,
+    "timeMonth": 628,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2023-02-02": 344
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 283,
-    "timeDay": 227,
-    "timeWeek": 283,
-    "timeMonth": 310,
-    "timeYear": 286,
+    "time": 284,
+    "timeDay": 344,
+    "timeWeek": 275,
+    "timeMonth": 311,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2023-02-02": 380
     }
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 558,
-    "timeDay": 724,
-    "timeWeek": 641,
-    "timeMonth": 734,
-    "timeYear": 594,
+    "time": 560,
+    "timeDay": 953,
+    "timeWeek": 666,
+    "timeMonth": 740,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2023-02-02": 380
     }
@@ -149,17 +149,16 @@
     "slug": "lisandro-bril",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.68%",
     "time": 650,
-    "timeDay": 455,
-    "timeWeek": 579,
-    "timeMonth": 617,
+    "timeDay": 617,
+    "timeWeek": 575,
+    "timeMonth": 611,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2023-08-26": 14,
       "2023-08-25": 16,
       "2023-08-22": 16,
       "2023-08-12": 15,
@@ -258,7 +257,8 @@
       "2023-01-18": 19,
       "2023-01-17": 18,
       "2023-01-16": 17,
-      "2023-01-13": 17
+      "2023-01-13": 17,
+      "2023-01-11": 16
     }
   },
   {
@@ -272,10 +272,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 432,
-    "timeDay": 621,
-    "timeWeek": 498,
-    "timeMonth": 437,
+    "time": 430,
+    "timeDay": 452,
+    "timeWeek": 497,
+    "timeMonth": 439,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2023-02-02": 424
@@ -287,16 +287,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/watervan.com.ar.ico",
     "slug": "watervan",
     "status": "up",
-    "uptime": "77.39%",
+    "uptime": "77.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.01%",
-    "time": 817,
-    "timeDay": 1570,
-    "timeWeek": 2470,
-    "timeMonth": 2381,
-    "timeYear": 961,
+    "uptimeYear": "91.24%",
+    "time": 821,
+    "timeDay": 3064,
+    "timeWeek": 2437,
+    "timeMonth": 2425,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2023-02-28": 1043,
       "2023-02-27": 1440,
@@ -330,8 +330,7 @@
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
-      "2022-08-28": 1440,
-      "2022-08-27": 1440
+      "2022-08-28": 1440
     }
   },
   {
@@ -340,15 +339,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencialc.com.ar.ico",
     "slug": "la-campana-agencia",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 604,
-    "timeDay": 450,
-    "timeWeek": 618,
-    "timeMonth": 622,
+    "time": 605,
+    "timeDay": 768,
+    "timeWeek": 625,
+    "timeMonth": 626,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2023-05-18": 921,
@@ -362,16 +361,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "55.16%",
+    "uptime": "55.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.14%",
-    "time": 1393,
-    "timeDay": 194,
-    "timeWeek": 457,
-    "timeMonth": 885,
-    "timeYear": 842,
+    "uptimeYear": "48.37%",
+    "time": 1390,
+    "timeDay": 508,
+    "timeWeek": 376,
+    "timeMonth": 853,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2023-03-03": 719,
       "2023-03-02": 1440,
@@ -560,8 +559,7 @@
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
-      "2022-08-28": 1440,
-      "2022-08-27": 1440
+      "2022-08-28": 1440
     }
   },
   {
@@ -575,11 +573,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 987,
-    "timeWeek": 1184,
-    "timeMonth": 1117,
-    "timeYear": 980,
+    "time": 979,
+    "timeDay": 814,
+    "timeWeek": 1162,
+    "timeMonth": 1106,
+    "timeYear": 979,
     "dailyMinutesDown": {}
   }
 ]
