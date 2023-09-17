@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1794,
-    "timeDay": 1174,
-    "timeWeek": 1725,
-    "timeMonth": 1999,
-    "timeYear": 1860,
+    "time": 1797,
+    "timeDay": 2645,
+    "timeWeek": 1835,
+    "timeMonth": 2034,
+    "timeYear": 1861,
     "dailyMinutesDown": {
       "2023-02-02": 402,
       "2023-01-19": 29,
-      "2022-09-23": 22,
-      "2022-09-17": 18
+      "2022-09-23": 22
     }
   },
   {
@@ -34,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 917,
-    "timeDay": 745,
-    "timeWeek": 922,
-    "timeMonth": 994,
-    "timeYear": 890,
+    "timeDay": 1127,
+    "timeWeek": 890,
+    "timeMonth": 1001,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2023-02-02": 424
     }
@@ -54,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 381,
-    "timeDay": 317,
-    "timeWeek": 939,
-    "timeMonth": 535,
+    "timeDay": 530,
+    "timeWeek": 916,
+    "timeMonth": 541,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2023-02-02": 380
@@ -73,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 506,
-    "timeDay": 337,
-    "timeWeek": 596,
-    "timeMonth": 591,
-    "timeYear": 533,
+    "time": 507,
+    "timeDay": 837,
+    "timeWeek": 575,
+    "timeMonth": 605,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2023-02-02": 344
     }
@@ -93,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 585,
-    "timeDay": 335,
-    "timeWeek": 706,
-    "timeMonth": 725,
+    "time": 586,
+    "timeDay": 596,
+    "timeWeek": 709,
+    "timeMonth": 726,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2023-02-02": 344
@@ -114,9 +113,9 @@
     "uptimeMonth": "63.83%",
     "uptimeYear": "96.91%",
     "time": 287,
-    "timeDay": 225,
-    "timeWeek": 323,
-    "timeMonth": 313,
+    "timeDay": 442,
+    "timeWeek": 321,
+    "timeMonth": 320,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2023-09-07": 1272,
@@ -145,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 574,
-    "timeDay": 287,
-    "timeWeek": 608,
-    "timeMonth": 688,
-    "timeYear": 602,
+    "time": 575,
+    "timeDay": 889,
+    "timeWeek": 625,
+    "timeMonth": 702,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2023-02-02": 380
     }
@@ -166,9 +165,9 @@
     "uptimeMonth": "98.29%",
     "uptimeYear": "99.58%",
     "time": 646,
-    "timeDay": 489,
-    "timeWeek": 627,
-    "timeMonth": 737,
+    "timeDay": 796,
+    "timeWeek": 626,
+    "timeMonth": 752,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2023-09-16": 15,
@@ -284,10 +283,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 430,
-    "timeDay": 332,
-    "timeWeek": 468,
-    "timeMonth": 539,
+    "time": 431,
+    "timeDay": 734,
+    "timeWeek": 459,
+    "timeMonth": 544,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2023-02-02": 424
@@ -299,15 +298,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/watervan.com.ar.ico",
     "slug": "watervan",
     "status": "up",
-    "uptime": "77.95%",
+    "uptime": "77.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.35%",
     "uptimeYear": "92.56%",
-    "time": 888,
-    "timeDay": 3131,
-    "timeWeek": 2280,
-    "timeMonth": 2439,
+    "time": 891,
+    "timeDay": 1511,
+    "timeWeek": 2105,
+    "timeMonth": 2416,
     "timeYear": 1065,
     "dailyMinutesDown": {
       "2023-09-07": 930,
@@ -354,9 +353,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 607,
-    "timeDay": 526,
-    "timeWeek": 639,
-    "timeMonth": 668,
+    "timeDay": 841,
+    "timeWeek": 654,
+    "timeMonth": 672,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2023-05-18": 921,
@@ -370,16 +369,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "57.04%",
+    "uptime": "57.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.90%",
-    "time": 1327,
-    "timeDay": 1674,
-    "timeWeek": 1005,
-    "timeMonth": 893,
-    "timeYear": 863,
+    "uptimeYear": "54.12%",
+    "time": 1296,
+    "timeDay": 1644,
+    "timeWeek": 1139,
+    "timeMonth": 933,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2023-03-03": 719,
       "2023-03-02": 1440,
@@ -547,8 +546,7 @@
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
-      "2022-09-18": 1440,
-      "2022-09-17": 1440
+      "2022-09-18": 1440
     }
   },
   {
@@ -562,11 +560,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 1002,
-    "timeWeek": 1161,
-    "timeMonth": 1155,
-    "timeYear": 997,
+    "time": 999,
+    "timeDay": 1390,
+    "timeWeek": 1157,
+    "timeMonth": 1167,
+    "timeYear": 999,
     "dailyMinutesDown": {}
   }
 ]
