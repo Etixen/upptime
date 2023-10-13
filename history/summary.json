@@ -157,11 +157,11 @@
     "url": "https://www.lisandrobril.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lisandrobril.com.ico",
     "slug": "lisandro-bril",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.41%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.59%",
     "time": 646,
     "timeDay": 862,
@@ -169,6 +169,7 @@
     "timeMonth": 636,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2023-10-13": 1,
       "2023-10-12": 17,
       "2023-10-11": 15,
       "2023-10-10": 16,
@@ -267,8 +268,7 @@
       "2023-02-25": 17,
       "2023-02-24": 16,
       "2023-02-23": 16,
-      "2023-02-22": 16,
-      "2023-02-20": 17
+      "2023-02-22": 16
     }
   },
   {
@@ -368,11 +368,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "59.22%",
+    "uptime": "59.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.25%",
+    "uptimeYear": "61.29%",
     "time": 1159,
     "timeDay": 1626,
     "timeWeek": 606,
