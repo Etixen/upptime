@@ -1,7 +1,7 @@
 url: http://www.axiaventures.com
-status: up
-code: 200
-responseTime: 1289
-lastUpdated: 2023-12-28T23:09:46.764Z
+status: down
+code: 500
+responseTime: 10246
+lastUpdated: 2023-12-29T20:46:11.102Z
 startTime: 2022-03-22T14:24:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
