@@ -1,7 +1,7 @@
 url: https://watervan.com.ar
-status: up
-code: 200
-responseTime: 1418
-lastUpdated: 2024-01-12T23:09:02.548Z
+status: down
+code: 500
+responseTime: 304
+lastUpdated: 2024-01-13T03:30:19.129Z
 startTime: 2022-03-22T14:24:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
