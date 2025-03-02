@@ -33,7 +33,7 @@
     "time": 1366,
     "timeDay": 720,
     "timeWeek": 2538,
-    "timeMonth": 1279,
+    "timeMonth": 1289,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2025-02-27": 49,
@@ -92,7 +92,7 @@
     "time": 379,
     "timeDay": 219,
     "timeWeek": 1122,
-    "timeMonth": 558,
+    "timeMonth": 559,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-02-26": 145,
@@ -136,7 +136,7 @@
     "time": 594,
     "timeDay": 344,
     "timeWeek": 2354,
-    "timeMonth": 1059,
+    "timeMonth": 1068,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2025-02-26": 119,
@@ -171,7 +171,7 @@
     "time": 1000,
     "timeDay": 612,
     "timeWeek": 1022,
-    "timeMonth": 2209,
+    "timeMonth": 2236,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2025-02-27": 20,
@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-03-02": 287,
+      "2025-03-02": 296,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -420,9 +420,9 @@
     "url": "http://www.ito-zarate.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.ito-zarate.com.ar.ico",
     "slug": "ito-zarate",
-    "status": "up",
+    "status": "down",
     "uptime": "93.60%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "98.64%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "81.21%",
@@ -538,7 +538,7 @@
     "time": 2658,
     "timeDay": 3104,
     "timeWeek": 2668,
-    "timeMonth": 4904,
+    "timeMonth": 4952,
     "timeYear": 3277,
     "dailyMinutesDown": {
       "2025-02-27": 18,
@@ -591,7 +591,7 @@
     "time": 734,
     "timeDay": 754,
     "timeWeek": 2340,
-    "timeMonth": 1527,
+    "timeMonth": 1539,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2025-02-27": 17,
@@ -691,7 +691,7 @@
     "uptime": "67.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.44%",
-    "uptimeMonth": "85.33%",
+    "uptimeMonth": "85.35%",
     "uptimeYear": "67.02%",
     "time": 976,
     "timeDay": 252,
