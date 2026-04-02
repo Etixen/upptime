@@ -11,9 +11,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.90%",
     "time": 1334,
-    "timeDay": 953,
-    "timeWeek": 1184,
-    "timeMonth": 1246,
+    "timeDay": 648,
+    "timeWeek": 1175,
+    "timeMonth": 1238,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2026-03-23": 42,
@@ -43,9 +43,9 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.79%",
     "time": 758,
-    "timeDay": 509,
-    "timeWeek": 545,
-    "timeMonth": 649,
+    "timeDay": 511,
+    "timeWeek": 548,
+    "timeMonth": 645,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2026-03-23": 41,
@@ -62,8 +62,7 @@
       "2025-05-25": 24,
       "2025-05-18": 239,
       "2025-05-16": 176,
-      "2025-04-05": 39,
-      "2025-04-02": 24
+      "2025-04-05": 39
     }
   },
   {
@@ -78,8 +77,8 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.81%",
     "time": 449,
-    "timeDay": 327,
-    "timeWeek": 488,
+    "timeDay": 419,
+    "timeWeek": 487,
     "timeMonth": 560,
     "timeYear": 470,
     "dailyMinutesDown": {
@@ -96,8 +95,7 @@
       "2025-05-25": 23,
       "2025-05-18": 238,
       "2025-05-16": 167,
-      "2025-04-05": 37,
-      "2025-04-02": 23
+      "2025-04-05": 37
     }
   },
   {
@@ -111,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.82%",
-    "time": 745,
-    "timeDay": 534,
-    "timeWeek": 811,
-    "timeMonth": 897,
-    "timeYear": 780,
+    "time": 746,
+    "timeDay": 982,
+    "timeWeek": 857,
+    "timeMonth": 912,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2026-03-23": 39,
       "2026-03-21": 48,
@@ -129,8 +127,7 @@
       "2025-05-25": 15,
       "2025-05-18": 237,
       "2025-05-16": 148,
-      "2025-04-05": 17,
-      "2025-04-02": 22
+      "2025-04-05": 17
     }
   },
   {
@@ -145,9 +142,9 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.80%",
     "time": 1012,
-    "timeDay": 1163,
-    "timeWeek": 913,
-    "timeMonth": 980,
+    "timeDay": 584,
+    "timeWeek": 896,
+    "timeMonth": 984,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2026-03-23": 38,
@@ -164,8 +161,7 @@
       "2025-05-25": 20,
       "2025-05-18": 235,
       "2025-05-16": 146,
-      "2025-04-05": 15,
-      "2025-04-02": 20
+      "2025-04-05": 15
     }
   },
   {
@@ -174,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibepisa.com.ar.ico",
     "slug": "ibepisa",
     "status": "down",
-    "uptime": "59.68%",
+    "uptime": "59.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -185,7 +181,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 203,
+      "2026-04-02": 169,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -548,8 +545,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -558,15 +554,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ito-zarate.com.ar.ico",
     "slug": "ito-zarate",
     "status": "up",
-    "uptime": "95.24%",
+    "uptime": "95.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.76%",
     "time": 574,
-    "timeDay": 438,
-    "timeWeek": 392,
-    "timeMonth": 442,
+    "timeDay": 380,
+    "timeWeek": 403,
+    "timeMonth": 440,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2026-03-23": 36,
@@ -588,8 +584,7 @@
       "2025-05-30": 56,
       "2025-05-18": 234,
       "2025-05-16": 145,
-      "2025-05-04": 30,
-      "2025-04-02": 19
+      "2025-05-04": 30
     }
   },
   {
@@ -604,10 +599,10 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.82%",
     "time": 3221,
-    "timeDay": 2510,
-    "timeWeek": 3231,
-    "timeMonth": 3025,
-    "timeYear": 2871,
+    "timeDay": 3428,
+    "timeWeek": 3319,
+    "timeMonth": 3037,
+    "timeYear": 2872,
     "dailyMinutesDown": {
       "2026-03-23": 36,
       "2026-03-21": 46,
@@ -619,8 +614,7 @@
       "2025-06-15": 32,
       "2025-05-30": 154,
       "2025-05-18": 233,
-      "2025-05-16": 160,
-      "2025-04-02": 18
+      "2025-05-16": 160
     }
   },
   {
@@ -634,11 +628,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.83%",
-    "time": 747,
-    "timeDay": 420,
-    "timeWeek": 548,
-    "timeMonth": 676,
-    "timeYear": 625,
+    "time": 727,
+    "timeDay": 883,
+    "timeWeek": 614,
+    "timeMonth": 690,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2026-03-23": 35,
       "2026-03-21": 46,
@@ -649,8 +643,7 @@
       "2025-06-23": 51,
       "2025-05-30": 153,
       "2025-05-18": 233,
-      "2025-05-16": 159,
-      "2025-04-02": 18
+      "2025-05-16": 159
     }
   },
   {
@@ -659,16 +652,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/watervan.com.ar.ico",
     "slug": "watervan",
     "status": "up",
-    "uptime": "91.73%",
+    "uptime": "91.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.82%",
-    "time": 2137,
-    "timeDay": 883,
-    "timeWeek": 1130,
-    "timeMonth": 1376,
-    "timeYear": 1708,
+    "time": 2138,
+    "timeDay": 1814,
+    "timeWeek": 1146,
+    "timeMonth": 1408,
+    "timeYear": 1710,
     "dailyMinutesDown": {
       "2026-03-23": 35,
       "2026-03-21": 45,
@@ -680,8 +673,7 @@
       "2025-06-23": 51,
       "2025-05-30": 153,
       "2025-05-18": 233,
-      "2025-05-16": 158,
-      "2025-04-02": 17
+      "2025-05-16": 158
     }
   },
   {
@@ -691,15 +683,15 @@
     "slug": "la-campana-agencia",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "95.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.37%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.72%",
-    "time": 2412,
-    "timeDay": 18691,
-    "timeWeek": 21176,
-    "timeMonth": 18354,
-    "timeYear": 3026,
+    "time": 2455,
+    "timeDay": 24318,
+    "timeWeek": 21654,
+    "timeMonth": 18698,
+    "timeYear": 3086,
     "dailyMinutesDown": {
       "2026-03-31": 59,
       "2026-03-30": 29,
@@ -715,8 +707,7 @@
       "2025-06-23": 29,
       "2025-05-30": 151,
       "2025-05-18": 232,
-      "2025-05-16": 143,
-      "2025-04-02": 17
+      "2025-05-16": 143
     }
   },
   {
@@ -725,13 +716,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "76.47%",
-    "uptimeDay": "95.92%",
+    "uptime": "76.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.82%",
-    "time": 1045,
-    "timeDay": 1964,
+    "time": 1040,
+    "timeDay": 349,
     "timeWeek": 1690,
     "timeMonth": 1558,
     "timeYear": 1013,
@@ -747,8 +738,7 @@
       "2025-06-23": 29,
       "2025-05-30": 151,
       "2025-05-18": 232,
-      "2025-05-16": 142,
-      "2025-04-02": 16
+      "2025-05-16": 142
     }
   },
   {
@@ -758,15 +748,15 @@
     "slug": "alimentarg",
     "status": "up",
     "uptime": "98.14%",
-    "uptimeDay": "95.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.81%",
     "time": 1378,
-    "timeDay": 1355,
-    "timeWeek": 1391,
-    "timeMonth": 1844,
-    "timeYear": 1293,
+    "timeDay": 1339,
+    "timeWeek": 1417,
+    "timeMonth": 1855,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2026-03-31": 58,
       "2026-03-23": 34,
@@ -780,8 +770,7 @@
       "2025-06-23": 29,
       "2025-05-30": 149,
       "2025-05-18": 231,
-      "2025-05-16": 142,
-      "2025-04-02": 16
+      "2025-05-16": 142
     }
   }
 ]
