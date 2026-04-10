@@ -169,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibepisa.com.ar.ico",
     "slug": "ibepisa",
     "status": "down",
-    "uptime": "59.33%",
+    "uptime": "59.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -180,7 +180,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 1415,
+      "2026-04-10": 202,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -543,8 +544,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -682,9 +682,9 @@
     "slug": "la-campana-agencia",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "77.27%",
-    "uptimeWeek": "90.13%",
-    "uptimeMonth": "95.99%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "90.21%",
+    "uptimeMonth": "96.01%",
     "uptimeYear": "99.54%",
     "time": 3298,
     "timeDay": 26745,
@@ -692,7 +692,7 @@
     "timeMonth": 21861,
     "timeYear": 4142,
     "dailyMinutesDown": {
-      "2026-04-09": 328,
+      "2026-04-09": 320,
       "2026-04-08": 313,
       "2026-04-07": 261,
       "2026-04-04": 93,
@@ -719,7 +719,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "76.61%",
+    "uptime": "76.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
