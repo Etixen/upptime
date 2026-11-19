@@ -42,7 +42,7 @@
     "timeDay": 825,
     "timeWeek": 725,
     "timeMonth": 708,
-    "timeYear": 677,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2026-03-12": 99,
       "2026-03-20": 39,
@@ -57,10 +57,10 @@
     "url": "https://www.dillonterzaghi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.dillonterzaghi.com.ar.ico",
     "slug": "dillon-terzaghi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 521,
@@ -74,7 +74,8 @@
       "2026-03-20": 39,
       "2026-03-21": 48,
       "2026-03-23": 40,
-      "2026-04-26": 83
+      "2026-04-26": 83,
+      "2026-11-19": 1
     }
   },
   {
@@ -117,7 +118,7 @@
     "timeDay": 965,
     "timeWeek": 1078,
     "timeMonth": 1209,
-    "timeYear": 1054,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2026-01-04": 55,
       "2026-03-12": 98,
@@ -133,7 +134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibepisa.com.ar.ico",
     "slug": "ibepisa",
     "status": "down",
-    "uptime": "51.55%",
+    "uptime": "51.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -144,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-19": 412,
+      "2026-11-19": 1425,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
@@ -581,7 +582,7 @@
     "timeDay": 891,
     "timeWeek": 1247,
     "timeMonth": 1046,
-    "timeYear": 773,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2026-03-12": 96,
       "2026-03-20": 33,
@@ -605,7 +606,7 @@
     "timeDay": 1101,
     "timeWeek": 1983,
     "timeMonth": 1600,
-    "timeYear": 1401,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2026-01-04": 54,
       "2026-03-12": 96,
@@ -630,7 +631,7 @@
     "timeDay": 11262,
     "timeWeek": 20970,
     "timeMonth": 12823,
-    "timeYear": 11053,
+    "timeYear": 11078,
     "dailyMinutesDown": {
       "2026-01-04": 53,
       "2026-03-07": 29,
@@ -661,7 +662,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.newton.com.ar.ico",
     "slug": "newton",
     "status": "up",
-    "uptime": "79.75%",
+    "uptime": "79.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -670,7 +671,7 @@
     "timeDay": 4435,
     "timeWeek": 1402,
     "timeMonth": 1829,
-    "timeYear": 1324,
+    "timeYear": 1321,
     "dailyMinutesDown": {
       "2026-01-03": 58,
       "2026-01-04": 18,
@@ -698,7 +699,7 @@
     "timeDay": 2099,
     "timeWeek": 2421,
     "timeMonth": 2399,
-    "timeYear": 1875,
+    "timeYear": 1877,
     "dailyMinutesDown": {
       "2026-01-04": 52,
       "2026-03-07": 29,
